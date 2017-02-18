@@ -3,12 +3,14 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 
 # [Cohort Member Blogs](member_blogs.md)
 
+# [Color palette tools](color-tools.md)
+
 # Regular Expressions Tutorials:
 
 * https://regexone.com/
 * https://www.codeschool.com/courses/breaking-the-ice-with-regular-expressions
 
-# RegEx Practice 
+# RegEx Practice
 
 * https://alf.nu/RegexGolf
 * https://regexcrossword.com/
@@ -17,8 +19,7 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 * https://pixabay.com/
 * https://unsplash.com/
 
-# Color palette tools
-* http://paletton.com/
+
 
 # fonts
 * http://fontawesome.io/
