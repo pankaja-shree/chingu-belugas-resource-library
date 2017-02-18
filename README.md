@@ -1,14 +1,17 @@
 # chingu-belugas-resource-library
 Library of Resources gathered from the Chingu-Belugas-Cohort members
 
-###Regular Expressions Tutorials:
+# cohort-member-blogs
+* @gordana's blog - https://codeococcus.wordpress.com/
+* @gabrielamazonas' blog - http://gabrielamazonas.com/
+* @agedlace's blog - https://agedlace.github.io/my-fcc-journey/
 
-https://regexone.com/
+# Regular Expressions Tutorials:
 
-https://www.codeschool.com/courses/breaking-the-ice-with-regular-expressions
+* https://regexone.com/
+* https://www.codeschool.com/courses/breaking-the-ice-with-regular-expressions
 
-###RegEx Practice 
+# RegEx Practice 
 
-https://alf.nu/RegexGolf
-
-https://regexcrossword.com/
+* https://alf.nu/RegexGolf
+* https://regexcrossword.com/
