@@ -1,11 +1,7 @@
 # chingu-belugas-resource-library
 Library of Resources gathered from the Chingu-Belugas-Cohort members
 
-# Cohort Member Blogs
-* @gordana's blog - https://codeococcus.wordpress.com/
-* @gabrielamazonas' blog - http://gabrielamazonas.com/
-* @agedlace's blog - https://agedlace.github.io/my-fcc-journey/
-* @byunsta's blog - http://byunsta.co/100days
+# [Cohort Member Blogs](member_blogs.md)
 
 # Regular Expressions Tutorials:
 
