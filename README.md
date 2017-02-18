@@ -5,6 +5,7 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 * @gordana's blog - https://codeococcus.wordpress.com/
 * @gabrielamazonas' blog - http://gabrielamazonas.com/
 * @agedlace's blog - https://agedlace.github.io/my-fcc-journey/
+* @ byunsta's blog - https://chingu-belugas.slack.com/team/byunsta
 
 # Regular Expressions Tutorials:
 
