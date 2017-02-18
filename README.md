@@ -1,6 +1,8 @@
 # chingu-belugas-resource-library
 Library of Resources gathered from the Chingu-Belugas-Cohort members
 
+# [Algorithm Practices](algorithm-practice.md)
+
 # [Cohort Member Blogs](member_blogs.md)
 
 # Regular Expressions Tutorials:
@@ -8,7 +10,7 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 * https://regexone.com/
 * https://www.codeschool.com/courses/breaking-the-ice-with-regular-expressions
 
-# RegEx Practice 
+# RegEx Practice
 
 * https://alf.nu/RegexGolf
 * https://regexcrossword.com/
@@ -24,8 +26,4 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 * http://fontawesome.io/
 * https://www.fontsquirrel.com/
 
-# Algorithm Practices
-* https://projecteuler.net/
-* http://exercism.io/
-* https://www.hackerrank.com/
-* https://www.codewars.com/
+
