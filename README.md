@@ -23,3 +23,13 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 
 # Color palette tools
 * http://paletton.com/
+
+# fonts
+* http://fontawesome.io/
+* https://www.fontsquirrel.com/
+
+# Algorithm Practices
+* https://projecteuler.net/
+* http://exercism.io/
+* https://www.hackerrank.com/
+* https://www.codewars.com/
