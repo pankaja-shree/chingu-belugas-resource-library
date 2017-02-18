@@ -25,9 +25,11 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 * http://paletton.com/
 
 # fonts
-http://fontawesome.io/
+* http://fontawesome.io/
+* https://www.fontsquirrel.com/
 
 # Algorithm Practices
-https://projecteuler.net/
-http://exercism.io/
-https://www.hackerrank.com/
+* https://projecteuler.net/
+* http://exercism.io/
+* https://www.hackerrank.com/
+* https://www.codewars.com/
