@@ -5,6 +5,9 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 
 # [Cohort Member Blogs](member_blogs.md)
 
+
+# [Fonts](fonts.md)
+
 # [Free images](free-images.md)
 
 # Regular Expressions Tutorials:
@@ -23,9 +26,7 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 * http://paletton.com/
 * http://colorsupplyyy.com/app/
 
-# fonts
-* http://fontawesome.io/
-* https://www.fontsquirrel.com/
+
 
 # Git/github
 
