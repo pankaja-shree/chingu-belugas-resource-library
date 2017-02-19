@@ -3,10 +3,7 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 
 # [Algorithm Practices](algorithm-practice.md)
 
-# Challenges
-* https://javascript30.com/
-* http://dailycssimages.com/
-* https://github.com/Kallaway/100-days-of-code
+# [Challenges](challenges.md)
 
 # [Cohort Member Blogs](member_blogs.md)
 
