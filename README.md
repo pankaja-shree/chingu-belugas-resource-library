@@ -31,6 +31,6 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 * https://www.codewars.com/
 
 # Challenges
-https://javascript30.com/
-http://dailycssimages.com/
-https://github.com/Kallaway/100-days-of-code
+* https://javascript30.com/
+* http://dailycssimages.com/
+* https://github.com/Kallaway/100-days-of-code
