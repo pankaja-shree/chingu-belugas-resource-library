@@ -1,24 +1,34 @@
 # chingu-belugas-resource-library
 Library of Resources gathered from the Chingu-Belugas-Cohort members
 
-# [Algorithm Practices](algorithm-practice.md)
+# [Beluga Cohort Member Blogs](member_blogs.md)
 
-# [Challenges](challenges.md)
+# Career Resources
 
-# [Cohort Member Blogs](member_blogs.md)
+# Coding Tools and Resources
 
-# [Color Palette Tools](color-tools.md)
+## [Algorithms](algorithm-practice.md)
+## [Challenges](challenges.md)
+## [Git/Github](git-github.md)
+## [Regular Expressions Tutorials and Practice](regex.md)
 
-# [Fonts](fonts.md)
+# Conferences
 
-# [Free images](free-images.md)
+# Inspirational Resources
 
-# [Git/Github](git-github.md)
+# Medium Articles
 
-# [HTML/CSS Resources](html-css.md)
+# Motivational Resources
 
-# [React Resources](react.md)
+# Podcasts
 
-# [Regular Expressions Tutorials and Practice](regex.md)
+# Programming Languages
 
+## [React Resources](react.md)
 
+# UX and Design
+
+## [Color Palette Tools](color-tools.md)
+## [Fonts](fonts.md)
+## [Free images](free-images.md)
+## [HTML/CSS Resources](html-css.md)
