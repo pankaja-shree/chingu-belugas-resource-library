@@ -3,3 +3,4 @@
 * @byunsta's blog - http://byunsta.co/100days
 * @gabrielamazonas' blog - http://gabrielamazonas.com/
 * @gordana's blog - https://codeococcus.wordpress.com/
+* @frenata's blog - http://frenata.me
