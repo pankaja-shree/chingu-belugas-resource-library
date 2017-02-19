@@ -19,6 +19,7 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 
 # Color palette tools
 * http://paletton.com/
+* http://colorsupplyyy.com/app/
 
 # fonts
 * http://fontawesome.io/
@@ -34,3 +35,6 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 * https://javascript30.com/
 * http://dailycssimages.com/
 * https://github.com/Kallaway/100-days-of-code
+
+# Html/Css resources
+* http://learn.shayhowe.com/
