@@ -1,6 +1,8 @@
 # chingu-belugas-resource-library
 Library of Resources gathered from the Chingu-Belugas-Cohort members
 
+# [Algorithm Practices](algorithm-practice.md)
+
 # [Cohort Member Blogs](member_blogs.md)
 
 # Regular Expressions Tutorials:
@@ -25,7 +27,7 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 * http://fontawesome.io/
 * https://www.fontsquirrel.com/
 
-#Git/github
+# Git/github
 
 * [Pro Git](https://git-scm.com/book/en/v2)
 * [Github bootcamp](https://help.github.com)
@@ -49,3 +51,4 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 * https://javascript30.com/
 * http://dailycssimages.com/
 * https://github.com/Kallaway/100-days-of-code
+
