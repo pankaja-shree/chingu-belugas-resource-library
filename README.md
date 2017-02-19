@@ -5,6 +5,7 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 
 # [Cohort Member Blogs](member_blogs.md)
 
+# [Color palette tools](color-tools.md)
 
 # [Fonts](fonts.md)
 
@@ -19,13 +20,6 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 
 * https://alf.nu/RegexGolf
 * https://regexcrossword.com/
-
-
-
-# Color palette tools
-* http://paletton.com/
-* http://colorsupplyyy.com/app/
-
 
 
 # Git/github
