@@ -24,8 +24,7 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 * Udacity Course  [How to use Git and Github]( https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 * Lynda.com [Github for Web Designers](https://www.lynda.com/GitHub-tutorials/GitHub-Web-Designers/162276-2.html)
 
-# HTML/CSS Resources
-* http://learn.shayhowe.com/
+# [HTML/CSS Resources](html-css.md)
 
 # React Resources
 * https://online.reacttraining.com/
