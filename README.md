@@ -7,6 +7,10 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 
 # [Color palette tools](color-tools.md)
 
+# [Fonts](fonts.md)
+
+# [Free images](free-images.md)
+
 # Regular Expressions Tutorials:
 
 * https://regexone.com/
@@ -17,13 +21,6 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 * https://alf.nu/RegexGolf
 * https://regexcrossword.com/
 
-# Free images
-* https://pixabay.com/
-* https://unsplash.com/
-
-# fonts
-* http://fontawesome.io/
-* https://www.fontsquirrel.com/
 
 # Git/github
 
