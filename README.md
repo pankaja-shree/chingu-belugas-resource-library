@@ -15,8 +15,7 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 
 # [Git/Github](git-github.md)
 
-# HTML/CSS Resources
-* http://learn.shayhowe.com/
+# [HTML/CSS Resources](html-css.md)
 
 # [React Resources](react.md)
 
