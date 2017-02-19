@@ -25,18 +25,17 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 * http://fontawesome.io/
 * https://www.fontsquirrel.com/
 
-# Algorithm Practices
-* https://projecteuler.net/
-* http://exercism.io/
-* https://www.hackerrank.com/
-* https://www.codewars.com/
-
 # Html/Css resources
 * http://learn.shayhowe.com/
 
 # React Resources
 * https://online.reacttraining.com/
 
+# Algorithm Practices
+* https://projecteuler.net/
+* http://exercism.io/
+* https://www.hackerrank.com/
+* https://www.codewars.com/
 
 # Challenges
 * https://javascript30.com/
