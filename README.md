@@ -5,6 +5,8 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 
 # [Cohort Member Blogs](member_blogs.md)
 
+# [Free images](free-images.md)
+
 # Regular Expressions Tutorials:
 
 * https://regexone.com/
@@ -15,9 +17,7 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 * https://alf.nu/RegexGolf
 * https://regexcrossword.com/
 
-# Free images
-* https://pixabay.com/
-* https://unsplash.com/
+
 
 # Color palette tools
 * http://paletton.com/
