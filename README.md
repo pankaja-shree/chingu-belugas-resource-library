@@ -38,3 +38,6 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 
 # Html/Css resources
 * http://learn.shayhowe.com/
+
+# React Resources
+* https://online.reacttraining.com/
