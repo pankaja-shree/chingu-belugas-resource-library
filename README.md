@@ -8,7 +8,7 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 * https://regexone.com/
 * https://www.codeschool.com/courses/breaking-the-ice-with-regular-expressions
 
-# RegEx Practice 
+# RegEx Practice
 
 * https://alf.nu/RegexGolf
 * https://regexcrossword.com/
@@ -19,10 +19,17 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 
 # Color palette tools
 * http://paletton.com/
+* http://colorsupplyyy.com/app/
 
 # fonts
 * http://fontawesome.io/
 * https://www.fontsquirrel.com/
+
+# Html/Css resources
+* http://learn.shayhowe.com/
+
+# React Resources
+* https://online.reacttraining.com/
 
 # Algorithm Practices
 * https://projecteuler.net/
@@ -34,3 +41,4 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 * https://javascript30.com/
 * http://dailycssimages.com/
 * https://github.com/Kallaway/100-days-of-code
+
