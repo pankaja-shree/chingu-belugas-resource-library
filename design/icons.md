@@ -1,2 +1,3 @@
+## Icon Resources
 
-http://www.flaticon.com/
+* [Flaticon](http://www.flaticon.com/)
