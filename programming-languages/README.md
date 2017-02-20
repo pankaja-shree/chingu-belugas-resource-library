@@ -1,7 +1,7 @@
 # Programming Languages
 
 ## C++
-## JavaScript
+## [JavaScript](javascript.md)
 ## Node
 ## PHP
 ## Python
