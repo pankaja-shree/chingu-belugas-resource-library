@@ -1,40 +1,42 @@
 # chingu-belugas-resource-library
 Library of Resources gathered from the Chingu-Belugas-Cohort members
 
-# [Beluga Cohort Member Blogs](member_blogs.md)
+## [Beluga Cohort Member Blogs](member_blogs.md)
 
-# Career Resources
+## Career Resources
 
-# Coding Tools and Resources
+## Coding Tools and Resources
 
-## [Algorithms](coding-resources/algorithm-practice.md)
-## [Challenges](coding-resources/challenges.md)
-## [Git/Github](coding-resources/git-github.md)
-## [Regular Expressions Tutorials and Practice](coding-resources/regex.md)
+* [Algorithms](coding-resources/algorithm-practice.md)
+* [Challenges](coding-resources/challenges.md)
+* [Git/Github](coding-resources/git-github.md)
+* [Regular Expressions Tutorials and Practice](coding-resources/regex.md)
 
-# Conferences
+## Conferences
 
-# Inspirational/ Motivational Resources
+## Design
 
-## [Design Inspiration](inspirational-resources/design.md)
-## [Email Designs](inspirational-resources/emails.md)
-## [Mobile Designs](inspirational-resources/mobile.md)
+* [Color Palette Tools](colors.md)
+* [CSS Resources](css.md)
+* [Curated Lists of Tools and Resources](tools.md)
+* [Design Resources](design.md)
+* [Fonts](fonts.md)
+* [Free images](free-images.md)
+* [HTML Resources](html.md)
+* [Icons](icons.md)
+* [UI Resources](ui.md)
+* [UX Resources](ux.md)
 
-# Medium Articles
+## Inspirational/ Motivational Resources
 
-# Podcasts
+* [Design Inspiration](inspirational-resources/design.md)
+* [Email Designs](inspirational-resources/emails.md)
+* [Mobile Designs](inspirational-resources/mobile.md)
 
-# Programming Languages
+## Medium Articles
 
-## [React Resources](programming-languages/react.md)
+## Podcasts
 
+## Programming Languages
 
-# UX and Design
-
-## [Color Palette Tools](ux-and-design/color-tools.md)
-## [Fonts](ux-and-design/fonts.md)
-## [Free images](ux-and-design/free-images.md)
-## [HTML/CSS Resources](ux-and-design/html-css.md)
-## [Icons](ux-and-design/icons.md)
-
-
+* [React Resources](programming-languages/react.md)

@@ -1,3 +1,4 @@
-# Fonts
-* http://fontawesome.io/
-* https://www.fontsquirrel.com/
+## Fonts
+
+* [FontAwesome](http://fontawesome.io/)
+* [Font Squirrel](https://www.fontsquirrel.com/)
