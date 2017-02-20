@@ -32,3 +32,4 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 ## [Fonts](fonts.md)
 ## [Free images](free-images.md)
 ## [HTML/CSS Resources](html-css.md)
+## [Icons](icons.md)
