@@ -14,6 +14,16 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 
 # Conferences
 
+# Design
+
+## [Color Palette Tools](design/color-tools.md)
+## [Fonts](design/fonts.md)
+## [Free images](design/free-images.md)
+## [HTML/CSS Resources](design/html-css.md)
+## [Icons](design/icons.md)
+## [UI Resources](design/ui.md)
+## [UX Resources](design/ux.md)
+
 # Inspirational Resources
 
 # Medium Articles
@@ -26,12 +36,5 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 
 ## [React Resources](programming-languages/react.md)
 
-# UX and Design
 
-
-## [Color Palette Tools](ux-and-design/color-tools.md)
-## [Fonts](ux-and-design/fonts.md)
-## [Free images](ux-and-design/free-images.md)
-## [HTML/CSS Resources](ux-and-design/html-css.md)
-## [Icons](ux-and-design/icons.md)
 
