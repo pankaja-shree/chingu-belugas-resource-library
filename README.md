@@ -14,11 +14,9 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 
 # Conferences
 
-# Inspirational Resources
+# Inspirational/ Motivational Resources
 
 # Medium Articles
-
-# Motivational Resources
 
 # Podcasts
 
@@ -27,7 +25,6 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 ## [React Resources](programming-languages/react.md)
 
 # UX and Design
-
 
 ## [Color Palette Tools](ux-and-design/color-tools.md)
 ## [Fonts](ux-and-design/fonts.md)
