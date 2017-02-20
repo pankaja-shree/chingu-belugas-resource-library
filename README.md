@@ -16,6 +16,10 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 
 # Inspirational Resources
 
+## [Design Inspiration](inspirational-resources/design.md)
+## [Email Designs](inspirational-resources/emails.md)
+## [Mobile Designs](inspirational-resources/mobile.md)
+
 # Medium Articles
 
 # Motivational Resources
