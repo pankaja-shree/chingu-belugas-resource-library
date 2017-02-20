@@ -28,6 +28,7 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 
 ## [React Resources](programming-languages/react.md)
 
+
 # UX and Design
 
 ## [Color Palette Tools](ux-and-design/color-tools.md)
@@ -35,4 +36,5 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 ## [Free images](ux-and-design/free-images.md)
 ## [HTML/CSS Resources](ux-and-design/html-css.md)
 ## [Icons](ux-and-design/icons.md)
+
 
