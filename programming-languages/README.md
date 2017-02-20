@@ -1,8 +1,8 @@
 # Programming Languages
 
 ## C++
-## JavaScript
+## [JavaScript](programming-languages/javascript.md)
 ## Node
 ## PHP
 ## Python
-## [React Resources](react.md)
+## [React Resources](programming-languages/react.md)
