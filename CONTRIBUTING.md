@@ -14,6 +14,7 @@ In an effort to streamline both the collecting and organizing of our resources l
 ## *Main focus - Organization*
 We are still using trello to brainstorm additional categories.  If you have ideas or suggestions you are invited to share them there, also.  
 
+## *Thank You Everyone*
 We are very thankful to everyone who has taken the time to share their favorite links, as well as everyone who is participating in the maintaining the resource library repo!
 
 * Contribution guidelines will be added once we reach this stage
