@@ -29,9 +29,9 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 # UX and Design
 
 
-## [Color Palette Tools](color-tools.md)
-## [Fonts](fonts.md)
-## [Free images](free-images.md)
-## [HTML/CSS Resources](html-css.md)
+## [Color Palette Tools](ux-and-design/color-tools.md)
+## [Fonts](ux-and-design/fonts.md)
+## [Free images](ux-and-design/free-images.md)
+## [HTML/CSS Resources](ux-and-design/html-css.md)
 ## [Icons](ux-and-design/icons.md)
 
