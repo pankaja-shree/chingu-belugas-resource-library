@@ -4,6 +4,9 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 ## [Beluga Cohort Member Blogs](member_blogs.md)
 
 ## Career Resources
+* Internships and Apprenticeships
+    * https://www.launchcode.org/
+    * https://portal.apprenticareers.org/
 
 ## Coding Tools and Resources
 
@@ -11,21 +14,25 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 * [Challenges](coding-resources/challenges.md)
 * [Git/Github](coding-resources/git-github.md)
 * [Regular Expressions Tutorials and Practice](coding-resources/regex.md)
+    * https://regex101.com/
 
 ## Conferences
 
 ## Design
 
 * [Color Palette Tools](colors.md)
-    *http://colorhunt.co/
-    * http://labs.tineye.com/
-    * https://color.adobe.com/
-    * https://coolors.co/
+
     * http://colicious.ga/
-    * http://www.pictaculous.com/
+    * https://color.adobe.com/
+    *http://colorhunt.co/
+    * https://coolors.co/
+    * http://www.creativebloq.com/features/8-free-apps-for-picking-a-colour-scheme
     * http://www.hexcolortool.com/
+    * http://labs.tineye.com/
+    * http://www.pictaculous.com/
     * http://www.unclrd.com/
 * [CSS Resources](css.md)
+    * https://www.reddit.com/r/css_irl/
 * [Curated Lists of Tools and Resources](tools.md)
 * [Design Resources](design.md)
 * Polygon Making Using CSS Clip Paths - http://bennettfeely.com/clippy/
@@ -50,6 +57,16 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
     * https://www.brusheezy.com/
     * https://www.graphicstock.com/
     * http://getrefe.tumblr.com/
+* Free Infographics / Presentation Makers
+    * https://www.canva.com/templates/
+    * https://www.easel.ly/
+    * https://www.gliffy.com/
+    * https://infogr.am/
+    * https://piktochart.com/
+    * https://prezi.com/
+    * https://venngage.com/
+    * https://www.visme.co/
+    * http://vizualize.me/
 * Free Prototyping Tools and Resources
     * https://html5up.net/
     * http://designwithnapkin.com/
@@ -60,6 +77,7 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
     * http://fizzed.com/oss/font-mfizz
     * https://www.iconfinder.com/
     * http://icons.mysitemyway.com/
+    * https://icons8.com/
     * http://www.softicons.com/free-icons
 * Logo Design
     * https://www.designmantic.com/
@@ -72,7 +90,6 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 
 ## Free Online Reading Resources
 * PacktPub - https://www.packtpub.com/packt/offers/free-learning
-=======
 * [Color Palette Tools](design/colors.md)
 * [CSS Resources](design/css.md)
 * [Curated Lists of Tools and Resources](design/tools.md)
@@ -83,7 +100,6 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 * [Icons](design/icons.md)
 * [UI Resources](design/ui.md)
 * [UX Resources](design/ux.md)
-
 
 ## Inspirational/ Motivational Resources
 
@@ -112,6 +128,9 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 * API Projects 
     * https://market.mashape.com/
     * https://www.udacity.com/course/intro-to-ajax--ud110
+*  JavaScript
+    * YDJKS Series in PDF - https://www.gitbook.com/book/maximdenisov/you-don-t-know-js/details
+    * http://youmightnotneedjquery.com/
 * [React Resources](programming-languages/react.md)
 
 ## Web Accessibility
