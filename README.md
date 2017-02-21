@@ -16,16 +16,16 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 
 ## Design
 
-* [Color Palette Tools](colors.md)
-* [CSS Resources](css.md)
-* [Curated Lists of Tools and Resources](tools.md)
-* [Design Resources](design.md)
-* [Fonts](fonts.md)
-* [Free images](free-images.md)
-* [HTML Resources](html.md)
-* [Icons](icons.md)
-* [UI Resources](ui.md)
-* [UX Resources](ux.md)
+* [Color Palette Tools](design/colors.md)
+* [CSS Resources](design/css.md)
+* [Curated Lists of Tools and Resources](design/tools.md)
+* [Design Resources](design/design.md)
+* [Fonts](design/fonts.md)
+* [Free images](design/free-images.md)
+* [HTML Resources](design/html.md)
+* [Icons](design/icons.md)
+* [UI Resources](design/ui.md)
+* [UX Resources](design/ux.md)
 
 ## Inspirational/ Motivational Resources
 
