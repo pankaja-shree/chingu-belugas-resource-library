@@ -9,19 +9,17 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
     * https://portal.apprenticareers.org/
 
 ## Coding Tools and Resources
-
 * [Algorithms](coding-resources/algorithm-practice.md)
 * [Challenges](coding-resources/challenges.md)
 * [Git/Github](coding-resources/git-github.md)
 * [Regular Expressions Tutorials and Practice](coding-resources/regex.md)
     * https://regex101.com/
+    * http://www.regexr.com/
 
 ## Conferences
 
 ## Design
-
 * [Color Palette Tools](colors.md)
-
     * http://colicious.ga/
     * https://color.adobe.com/
     *http://colorhunt.co/
@@ -101,8 +99,10 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 * [UI Resources](design/ui.md)
 * [UX Resources](design/ux.md)
 
-## Inspirational/ Motivational Resources
+## HackerNoon Articles
+* https://hackernoon.com/developers-are-unknowingly-posting-their-credentials-online-caa7626a6f84#.lzrpv4s8u
 
+## Inspirational/ Motivational Resources
 * [Design Inspiration](inspirational-resources/design.md)
 * [Email Designs](inspirational-resources/emails.md)
 * [Mobile Designs](inspirational-resources/mobile.md)
@@ -118,6 +118,7 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 * http://www.codingblocks.net/
 * http://developeronfire.com/podcast/episode-048-kyle-simpson-deeper-understanding
 * https://frontsidethepodcast.simplecast.fm/
+* http://www.programmingthrowdown.com/
 * http://shows.howstuffworks.com/techstuff-podcast.htm
 
 ## Productivity Tools and Resources
@@ -128,10 +129,16 @@ Library of Resources gathered from the Chingu-Belugas-Cohort members
 * API Projects 
     * https://market.mashape.com/
     * https://www.udacity.com/course/intro-to-ajax--ud110
+* Computer Science Fundamentals w/JavaScript
+    * https://www.rithmschool.com/courses/javascript-computer-science-fundamentals
 *  JavaScript
     * YDJKS Series in PDF - https://www.gitbook.com/book/maximdenisov/you-don-t-know-js/details
     * http://youmightnotneedjquery.com/
+    * JS Libraries and Frameworks
+        * https://weex-project.io/
 * [React Resources](programming-languages/react.md)
+    * https://github.com/markerikson/react-redux-links
+    * https://github.com/react-map/react-magic
 
 ## Web Accessibility
 * http://a11yproject.com/
