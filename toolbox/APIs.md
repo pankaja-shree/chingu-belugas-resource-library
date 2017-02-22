@@ -1,0 +1,1 @@
+* https://market.mashape.com/
