@@ -1,6 +1,7 @@
 
 # Library of Resources gathered from the Chingu-Belugas-Cohort members
 [Articles](articles.md)
+
 [Career resources](career.md)
 
 [Design Inspiration](inspiration/README.md)
