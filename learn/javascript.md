@@ -1,4 +1,7 @@
 # JS
+
+* [CS50 JS bootcamp on YouTube](https://www.youtube.com/playlist?list=PLxfArCURpD2CtCDrjdl1dd4XDm9XzVh1e)
+* https://www.udemy.com/understand-javascript/
 * http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/
 * https://www.rithmschool.com/courses/javascript-computer-science-fundamentals
 * [YDJKS Series in PDF](https://www.gitbook.com/book/maximdenisov/you-don-t-know-js/details)
