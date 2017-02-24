@@ -7,3 +7,5 @@
 * Lynda.com [Github for Web Designers](https://www.lynda.com/GitHub-tutorials/GitHub-Web-Designers/162276-2.html)
 * [Common Git Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
 * [Help I messed up!](http://sethrobertson.github.io/GitFixUm/fixup.html)
+* [Git Cheat Sheet - Education](https://education.github.com/git-cheat-sheet-education.pdf)
+* [Git Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
