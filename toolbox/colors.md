@@ -13,3 +13,6 @@
 * http://labs.tineye.com/
 * http://www.pictaculous.com/
 * http://www.unclrd.com/
+* http://www.0to255.com/
+* https://color.adobe.com/create/color-wheel
+* [UI Gradients](https://uigradients.com/#Army)
