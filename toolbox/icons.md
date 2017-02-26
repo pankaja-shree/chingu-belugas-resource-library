@@ -8,3 +8,6 @@
 * https://icons8.com/
 * http://www.softicons.com/free-icons
 * [Weather Themed Icons](https://erikflowers.github.io/weather-icons/)
+* http://ionicons.com/
+* http://entypo.com/
+* http://iconmonstr.com/
