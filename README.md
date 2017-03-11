@@ -1,3 +1,8 @@
+Chrome debugging tutorial - Youtube video
+https://www.youtube.com/watch?v=-q1z8BPFItw
+
+This is a bit long but explains things in a lot of detail.
+
 
 # Library of Resources gathered from the Chingu-Belugas-Cohort members
 [Articles](articles.md)
