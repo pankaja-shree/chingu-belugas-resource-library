@@ -12,3 +12,5 @@
 
 ## Vector Art
 * https://www.vecteezy.com/
+
+* http://image.online-convert.com/convert-to-svg
