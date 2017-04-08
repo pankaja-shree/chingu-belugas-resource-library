@@ -7,6 +7,7 @@
 * [YDJKS Series in PDF](https://www.gitbook.com/book/maximdenisov/you-don-t-know-js/details)
 * http://youmightnotneedjquery.com/
 * [Funfunfunctions](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+* http://thenewcode.com/1135/Web-Developer-Reading-List-JavaScript
 # AJAX
 * https://www.udacity.com/course/intro-to-ajax--ud110
 
