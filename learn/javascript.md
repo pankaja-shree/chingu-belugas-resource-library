@@ -6,6 +6,7 @@
 * https://www.rithmschool.com/courses/javascript-computer-science-fundamentals
 * [YDJKS Series in PDF](https://www.gitbook.com/book/maximdenisov/you-don-t-know-js/details)
 * http://youmightnotneedjquery.com/
+* [Funfunfunctions](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 # AJAX
 * https://www.udacity.com/course/intro-to-ajax--ud110
 
