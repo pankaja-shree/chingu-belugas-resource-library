@@ -7,7 +7,8 @@
 
 ## JS Libraries and Frameworks
 
-#### Vue Native Rendering Backend
-* https://weex-project.io/
+* Vue Native Rendering Backend https://weex-project.io/
+* Node API framework that sits on top of Express (useful for microservices or as mobile application backends) : http://loopback.io/ 
+* Serverless framework for Node.js on AWS : https://dawson.sh/
 
 #### [Image gallery](http://nanogallery.brisbois.fr/)
