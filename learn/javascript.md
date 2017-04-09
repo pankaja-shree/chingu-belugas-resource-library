@@ -11,6 +11,8 @@
 * https://www.udemy.com/programming-in-javascript/
 * https://rainsoft.io/gentle-explanation-of-this-in-javascript/
 * [tricky parts of js](https://www.youtube.com/watch?v=cMxI8n393ZM)
+* https://davidwalsh.name/functional-programming
+* Book by Kyle Simpson - Functional Light JavaScript - https://github.com/getify/functional-light-js
 
 # AJAX
 * https://www.udacity.com/course/intro-to-ajax--ud110
