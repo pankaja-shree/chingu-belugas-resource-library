@@ -9,6 +9,7 @@
 * [Funfunfunctions](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 * http://thenewcode.com/1135/Web-Developer-Reading-List-JavaScript
 * https://www.udemy.com/programming-in-javascript/
+* https://rainsoft.io/gentle-explanation-of-this-in-javascript/
 
 # AJAX
 * https://www.udacity.com/course/intro-to-ajax--ud110
