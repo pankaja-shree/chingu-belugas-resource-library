@@ -11,3 +11,7 @@
 
 * http://usepanda.com/app/#/?module=panda5
 * https://feedly.com/i/welcome
+
+### Others
+
+* https://github.com/poteto/hiring-without-whiteboards
