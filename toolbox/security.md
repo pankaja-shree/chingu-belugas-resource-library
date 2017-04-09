@@ -1,0 +1,1 @@
+* [Observatory by Mozilla is a project designed to help developers, system administrators, and security professionals configure their sites safely and securely.](https://www.youtube.com/playlist?list=PL2g-DF7-WOZ4pzupMZfBJiDEh_OLRvBRy)
