@@ -1,2 +1,2 @@
 * [Hashnode](https://hashnode.com/)
-* http://shescoding.org/
+* http://www.slacklist.info/
