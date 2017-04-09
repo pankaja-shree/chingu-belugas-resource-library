@@ -9,3 +9,4 @@
 * http://chenglou.github.io/react-motion/demos/demo5-spring-parameters-chooser/
 * https://github.com/react-community/create-react-native-app
 * https://toddmotto.com/react-create-class-versus-component/
+* https://medium.com/react-tutorials/react-state-14a6d4f736f5
