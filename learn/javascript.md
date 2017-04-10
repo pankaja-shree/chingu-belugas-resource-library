@@ -13,6 +13,7 @@
 * [tricky parts of js](https://www.youtube.com/watch?v=cMxI8n393ZM)
 * https://davidwalsh.name/functional-programming
 * Book by Kyle Simpson - Functional Light JavaScript - https://github.com/getify/functional-light-js
+* Algorithm Analyser - http://algo-visualizer.jasonpark.me/#path=backtracking/knight%27s_tour/basic
 
 # AJAX
 * https://www.udacity.com/course/intro-to-ajax--ud110
