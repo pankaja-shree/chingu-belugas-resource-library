@@ -6,3 +6,4 @@
 * [Loaders](http://loadinfo.net/)
 * http://animista.net/
 * https://greensock.com/
+* CSS Animation Playground - http://animista.net/
