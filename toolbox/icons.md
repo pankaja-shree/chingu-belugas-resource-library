@@ -11,3 +11,4 @@
 * http://ionicons.com/
 * http://entypo.com/
 * http://iconmonstr.com/
+* [Chingu Animal Icons](https://github.com/Kornil/Chingu-Animal-Icons)
