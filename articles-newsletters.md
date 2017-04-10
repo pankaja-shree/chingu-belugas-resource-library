@@ -6,6 +6,7 @@
 * https://medium.freecodecamp.com/how-to-make-your-react-native-app-respond-gracefully-when-the-keyboard-pops-up-7442c1535580#.wyk0izm4d
 * https://thinkgrowth.org/artificial-intelligence-and-you-demystifying-the-technology-landscape-21d4d34fbb10#.k9bjf9yzx
 * https://medium.com/product-hunt/28-tools-to-help-you-launch-your-startup-on-a-small-budget-7d5383997bbd#.r50kqfgkl
+* https://medium.freecodecamp.com/how-i-got-a-second-degree-and-earned-5-developer-certifications-in-just-one-year-while-working-and-2b902ee291ab#.dppehromp
 
 ## HackerNoon Articles
 * https://hackernoon.com/developers-are-unknowingly-posting-their-credentials-online-caa7626a6f84#.lzrpv4s8u
