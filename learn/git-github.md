@@ -11,3 +11,4 @@
 * [Git Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 * http://github-guide.surge.sh/index.html
 * An introduction to Git and gitHub by CS50 - https://www.youtube.com/watch?feature=youtu.be&v=MJUJ4wbFm_A&spfreload=1&app=desktop
+* centralised Workflow as described in this article here - https://www.atlassian.com/git/tutorials/comparing-workflows#feature-branch-workflow
