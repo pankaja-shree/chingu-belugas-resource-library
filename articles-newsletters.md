@@ -8,3 +8,7 @@
 ## HackerNoon Articles
 * https://hackernoon.com/developers-are-unknowingly-posting-their-credentials-online-caa7626a6f84#.lzrpv4s8u
 * https://hackernoon.com/12-extremely-useful-hacks-for-javascript-278567de2706?ref=webdesignernews.com
+
+## Newsletters
+
+* http://mlweekly.com/ - hand-curated newsletter about machine learning and deep learning
