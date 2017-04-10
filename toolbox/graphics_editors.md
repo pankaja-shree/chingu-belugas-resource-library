@@ -5,3 +5,4 @@
 * https://www.daz3d.com/
 * https://www.gimp.org/
 * https://pixlr.com/
+* Free Drawing editor - https://chrome.google.com/webstore/detail/drawio-desktop/pebppomjfocnoigkeepgbmcifnnlndla?hl=en-GB
