@@ -5,5 +5,5 @@
 * [12 principles of Animation](https://www.youtube.com/playlist?list=PL-bOh8btec4CXd2ya1NmSKpi92U_l6ZJd)
 * [Loaders](http://loadinfo.net/)
 * http://animista.net/
-* https://greensock.com/
+* Ultra high-performance, professional-grade HTML5 animation for the modern web - https://greensock.com/
 * CSS Animation Playground - http://animista.net/
