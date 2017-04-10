@@ -4,6 +4,7 @@
 * https://medium.freecodecamp.com/javascript-callbacks-explained-using-minions-da272f4d9bcd#.llfdao959
 * https://medium.com/wd-tips-tricks/free-ebooks-for-web-designers-developers-3c2619cffa6b#.6vzotw8p4
 * https://medium.freecodecamp.com/how-to-make-your-react-native-app-respond-gracefully-when-the-keyboard-pops-up-7442c1535580#.wyk0izm4d
+* https://thinkgrowth.org/artificial-intelligence-and-you-demystifying-the-technology-landscape-21d4d34fbb10#.k9bjf9yzx
 
 ## HackerNoon Articles
 * https://hackernoon.com/developers-are-unknowingly-posting-their-credentials-online-caa7626a6f84#.lzrpv4s8u
