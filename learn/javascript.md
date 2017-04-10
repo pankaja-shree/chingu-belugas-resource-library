@@ -19,5 +19,11 @@
 # AJAX
 * https://www.udacity.com/course/intro-to-ajax--ud110
 
+3 ways to do AJAX requests without jQuery:
+
+1. fetch() https://developers.google.com/web/updates/2015/03/introduction-to-fetch
+2. axios  https://github.com/mzabriskie/axios
+3. superagent https://github.com/visionmedia/superagent
+
 # ES6
 * https://egghead.io/lessons/arrow-function
