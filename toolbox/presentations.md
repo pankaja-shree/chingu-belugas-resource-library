@@ -3,6 +3,7 @@
 * https://prezi.com/
 * https://www.canva.com/templates/
 * https://www.easel.ly/
+* https://www.infoq.com/presentations/Simple-Made-Easy
 
 ## Iconographics & Charts
 * https://infogr.am/

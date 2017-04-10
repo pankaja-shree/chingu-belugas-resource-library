@@ -5,3 +5,4 @@
 * http://www.1001fonts.com/
 * https://fontface.ninja/
 * https://fonts.google.com/
+* Typography tool - https://www.gridlover.net/

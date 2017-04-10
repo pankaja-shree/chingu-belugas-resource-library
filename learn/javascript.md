@@ -6,8 +6,24 @@
 * https://www.rithmschool.com/courses/javascript-computer-science-fundamentals
 * [YDJKS Series in PDF](https://www.gitbook.com/book/maximdenisov/you-don-t-know-js/details)
 * http://youmightnotneedjquery.com/
+* [Funfunfunctions](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+* http://thenewcode.com/1135/Web-Developer-Reading-List-JavaScript
+* https://www.udemy.com/programming-in-javascript/
+* https://rainsoft.io/gentle-explanation-of-this-in-javascript/
+* [tricky parts of js](https://www.youtube.com/watch?v=cMxI8n393ZM)
+* https://davidwalsh.name/functional-programming
+* Book by Kyle Simpson - Functional Light JavaScript - https://github.com/getify/functional-light-js
+* Algorithm Visualizer - http://algo-visualizer.jasonpark.me/#path=backtracking/knight%27s_tour/basic
+* [Youtube video - Fizz buzzkill - Answering tricky JS interview questions](https://www.youtube.com/watch?v=cMxI8n393ZM)
+
 # AJAX
 * https://www.udacity.com/course/intro-to-ajax--ud110
+
+3 ways to do AJAX requests without jQuery:
+
+1. fetch() https://developers.google.com/web/updates/2015/03/introduction-to-fetch
+2. axios  https://github.com/mzabriskie/axios
+3. superagent https://github.com/visionmedia/superagent
 
 # ES6
 * https://egghead.io/lessons/arrow-function

@@ -9,6 +9,12 @@
 
 ## Textures
 * https://www.transparenttextures.com/
+* http://www.heropatterns.com/
 
 ## Vector Art
 * https://www.vecteezy.com/
+
+* http://image.online-convert.com/convert-to-svg
+
+* Create 3D CSS Shapes - http://tridiv.com/
+

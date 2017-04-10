@@ -6,3 +6,4 @@
 * [Clip-path maker](http://bennettfeely.com/clippy/)
 * [CanIUse](http://caniuse.com/)
 * https://www.reddit.com/r/css_irl/
+* [Create CSS from sprite images](http://www.spritebox.net/)
