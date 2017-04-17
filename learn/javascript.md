@@ -15,6 +15,7 @@
 * Book by Kyle Simpson - Functional Light JavaScript - https://github.com/getify/functional-light-js
 * Algorithm Visualizer - http://algo-visualizer.jasonpark.me/#path=backtracking/knight%27s_tour/basic
 * [Youtube video - Fizz buzzkill - Answering tricky JS interview questions](https://www.youtube.com/watch?v=cMxI8n393ZM)
+* https://medium.freecodecamp.com/25-free-resources-for-new-javascript-developers-11342cf1f4df
 
 # AJAX
 * https://www.udacity.com/course/intro-to-ajax--ud110
