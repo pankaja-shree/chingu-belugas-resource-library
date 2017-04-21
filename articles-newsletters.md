@@ -8,7 +8,9 @@
 * https://medium.com/product-hunt/28-tools-to-help-you-launch-your-startup-on-a-small-budget-7d5383997bbd#.r50kqfgkl
 * https://medium.freecodecamp.com/how-i-got-a-second-degree-and-earned-5-developer-certifications-in-just-one-year-while-working-and-2b902ee291ab#.dppehromp
 * https://medium.com/alecia/minneapolis-is-becoming-a-tech-hub-75128abaa48c
-* 
+* https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02
+* https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b
+
 ## HackerNoon Articles
 * https://hackernoon.com/developers-are-unknowingly-posting-their-credentials-online-caa7626a6f84#.lzrpv4s8u
 * https://hackernoon.com/12-extremely-useful-hacks-for-javascript-278567de2706?ref=webdesignernews.com
