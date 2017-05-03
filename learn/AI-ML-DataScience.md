@@ -9,6 +9,7 @@
 * https://medium.freecodecamp.com/i-ranked-all-the-best-data-science-intro-courses-based-on-thousands-of-data-points-db5dc7e3eb8e
 * http://blog.kaggle.com/2017/04/17/the-best-sources-to-study-machine-learning-and-ai-with-ben-hamner-kaggle-cto/
 * [How to prepare Data for ML](http://machinelearningmastery.com/how-to-prepare-data-for-machine-learning/)
+* https://hackernoon.com/neural-networks-from-scratch-for-javascript-linguists-part1-the-perceptron-632a4d1fbad2
 
 
 ### Youtube videos
@@ -23,3 +24,6 @@
 * [Text mining with R](http://tidytextmining.com/)
 * [Statistical Learning and Applications with R](http://www-bcf.usc.edu/~gareth/ISL/)
 * [Learning Statistics with R](https://health.adelaide.edu.au/psychology/ccs/teaching/lsr/)
+* https://leanpub.com/openintro-statistics
+* https://leanpub.com/artofdatascience
+
