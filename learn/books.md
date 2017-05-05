@@ -6,3 +6,5 @@
 * http://www.c-sharpcorner.com/ebooks/
 
 * https://leanpub.com/
+
+* Free Javascript books - http://freefrontend.com/javascript-books/
