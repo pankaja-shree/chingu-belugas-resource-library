@@ -9,4 +9,4 @@
 * https://www.voorhoede.nl/en/blog/fighting-front-end-fatigue-with-tooling-recipes/
 * [cheatsheets](http://www.designyourway.net/drb/all-the-cheat-sheets-an-up-to-date-web-designer-needs-css3-html5-and-jquery/)
 * http://freefrontend.com/
-
+* https://github.com/WomenWhoCode/guidelines-resources/blob/master/learn_to_program.md
