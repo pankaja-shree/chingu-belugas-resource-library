@@ -16,6 +16,11 @@
 * Algorithm Visualizer - http://algo-visualizer.jasonpark.me/#path=backtracking/knight%27s_tour/basic
 * [Youtube video - Fizz buzzkill - Answering tricky JS interview questions](https://www.youtube.com/watch?v=cMxI8n393ZM)
 * https://medium.freecodecamp.com/25-free-resources-for-new-javascript-developers-11342cf1f4df
+* https://www.codecademy.com/learn/learn-javascript
+* https://nodeschool.io/
+* http://eloquentjavascript.net/
+* https://www.khanacademy.org/computing/computer-programming/programming
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 # AJAX
 * https://www.udacity.com/course/intro-to-ajax--ud110
