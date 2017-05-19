@@ -10,6 +10,7 @@
 * http://blog.kaggle.com/2017/04/17/the-best-sources-to-study-machine-learning-and-ai-with-ben-hamner-kaggle-cto/
 * [How to prepare Data for ML](http://machinelearningmastery.com/how-to-prepare-data-for-machine-learning/)
 * https://hackernoon.com/neural-networks-from-scratch-for-javascript-linguists-part1-the-perceptron-632a4d1fbad2
+* https://elitedatascience.com/learn-machine-learning
 
 
 ### Youtube videos
