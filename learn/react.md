@@ -12,3 +12,6 @@
 * https://medium.com/react-tutorials/react-state-14a6d4f736f5
 * https://facebook.github.io/react-vr/
 * https://leanpub.com/the-road-to-learn-react
+* Series on Medium for React complete beginners - https://medium.com/coding-artist/react-js-for-the-visual-learner-chapter-1-what-is-this-all-about-a0d28cfd33c6
+* https://www.fullstackreact.com/30-days-of-react/
+* 
