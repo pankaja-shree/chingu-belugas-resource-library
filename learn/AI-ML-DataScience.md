@@ -11,7 +11,9 @@
 * [How to prepare Data for ML](http://machinelearningmastery.com/how-to-prepare-data-for-machine-learning/)
 * https://hackernoon.com/neural-networks-from-scratch-for-javascript-linguists-part1-the-perceptron-632a4d1fbad2
 * https://elitedatascience.com/learn-machine-learning
-
+* [AI Learning Path](https://ivan-farkas.com/2017/05/27/ai-learning-path/?utm_campaign=Machine%2BLearning%2BWeekly&utm_medium=email&utm_source=Machine_Learning_Weekly_25)
+* [How to solve Kaggle Problems](http://www.datasciencecentral.com/profiles/blogs/how-to-solve-the-new-1-million-kagge-problem?utm_campaign=Machine%2BLearning%2BWeekly&utm_medium=email&utm_source=Machine_Learning_Weekly_25)
+* https://blog.openai.com/openai-baselines-dqn/?utm_campaign=Machine%2BLearning%2BWeekly&utm_medium=email&utm_source=Machine_Learning_Weekly_25
 
 ### Youtube videos
 
@@ -28,3 +30,6 @@
 * https://leanpub.com/openintro-statistics
 * https://leanpub.com/artofdatascience
 
+# MS Azure
+
+* [Microsoft Virtual Academy](Azure developer course)
