@@ -10,6 +10,7 @@
 * https://medium.com/alecia/minneapolis-is-becoming-a-tech-hub-75128abaa48c
 * https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02
 * https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-2-adfa4824da9b
+* https://uxplanet.org/best-practices-for-website-header-design-e0d55bf5f1e2
 
 ## HackerNoon Articles
 * https://hackernoon.com/developers-are-unknowingly-posting-their-credentials-online-caa7626a6f84#.lzrpv4s8u
