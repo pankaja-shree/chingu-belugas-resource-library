@@ -7,3 +7,4 @@
 * http://animista.net/
 * Ultra high-performance, professional-grade HTML5 animation for the modern web - https://greensock.com/
 * CSS Animation Playground - http://animista.net/
+* 2D Graphics - http://www.pixijs.com/
