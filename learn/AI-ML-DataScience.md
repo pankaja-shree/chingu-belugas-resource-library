@@ -14,6 +14,8 @@
 * [AI Learning Path](https://ivan-farkas.com/2017/05/27/ai-learning-path/?utm_campaign=Machine%2BLearning%2BWeekly&utm_medium=email&utm_source=Machine_Learning_Weekly_25)
 * [How to solve Kaggle Problems](http://www.datasciencecentral.com/profiles/blogs/how-to-solve-the-new-1-million-kagge-problem?utm_campaign=Machine%2BLearning%2BWeekly&utm_medium=email&utm_source=Machine_Learning_Weekly_25)
 * https://blog.openai.com/openai-baselines-dqn/?utm_campaign=Machine%2BLearning%2BWeekly&utm_medium=email&utm_source=Machine_Learning_Weekly_25
+* http://datasciencemasters.org/
+* ML course by Siraj - https://github.com/llSourcell/The_Math_of_Intelligence
 
 ### Youtube videos
 
@@ -29,7 +31,15 @@
 * [Learning Statistics with R](https://health.adelaide.edu.au/psychology/ccs/teaching/lsr/)
 * https://leanpub.com/openintro-statistics
 * https://leanpub.com/artofdatascience
+* R for DS - http://r4ds.had.co.nz/introduction.html
+* A programmer's guide to Data Mining - http://guidetodatamining.com/
 
 # MS Azure
 
 * [Microsoft Virtual Academy](Azure developer course)
+
+# Math for ML/DS
+
+* Essence of calculus - https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
+* Essence of Linear Algebra - https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+* 
