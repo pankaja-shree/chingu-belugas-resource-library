@@ -18,3 +18,5 @@
 
 * Create 3D CSS Shapes - http://tridiv.com/
 
+* Make backgrounds with custom patterns - https://patterninja.com/
+
